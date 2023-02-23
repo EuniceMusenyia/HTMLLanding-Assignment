@@ -1,0 +1,52 @@
+body{
+    background-image: url("landing\ img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.heading{
+    margin: 0%;
+    color: chocolate;
+}
+
+nav ul {
+    list-style: none;
+    float: right;
+    margin: 0%;
+    color: white;
+    display: flex;   
+    
+}   
+nav ul li{
+   margin: 30px;
+   font-size: 10px;
+   
+}
+nav ul li a{
+    text-decoration: none;
+    color:orangered;
+    
+}
+.login{
+    margin: 0%;
+    padding: 5%;
+}
+button{
+    margin: 2% 5% ;
+    padding: 10px;
+    border-radius: 30px;
+    font-weight: bolder;
+    color: purple;
+    background-color: orange;
+}
+h3{
+    margin: 5% 0% 0%;
+}
+h1{
+    color:whitesmoke;
+    font-size: large;
+    font-stretch: extra-expanded;
+    font-weight: bolder;
+    color: darkmagenta;
+    margin: 0% 5% ;
+}
